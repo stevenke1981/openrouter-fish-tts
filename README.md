@@ -1,3 +1,8 @@
+> [!WARNING]
+> **本專案已封存（唯讀），不再維護。** 後續開發請改至：**https://github.com/stevenke1981/fish-s2pro-tts/tree/main/python/openrouter-fish-tts**
+>
+> **This repository is archived (read-only) and no longer maintained.** Continued development: **https://github.com/stevenke1981/fish-s2pro-tts/tree/main/python/openrouter-fish-tts**
+
 # OpenRouter Fish Audio TTS
 
 Zero-dependency Python client and CLI for `fish-audio/s2.1-pro-free` through OpenRouter.
